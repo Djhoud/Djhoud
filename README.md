@@ -44,7 +44,7 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-osvaldo-9438a9272)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/(42)999856451)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/(42)99856451)  
 
 ![](https://komarev.com/ghpvc/?username=Djhoud&style=flat-square)
  
